@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center> # 💫 About Me:</center>
+<p align="center"> # 💫 About Me: </p>
 💻Computer Science Student in UL <br>💪Never winning, always learning<br>(❁´◡`❁)
 
 
