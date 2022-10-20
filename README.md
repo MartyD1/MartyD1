@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![](https://github.com/MartyD1/MartyD1/blob/main/seq1_AdobeExpress.gif)
+
+
 # 💫 About Me: 
 💻Computer Science Student in UL <br>💪Never winning, always learning<br>
 (❁´◡`❁)
