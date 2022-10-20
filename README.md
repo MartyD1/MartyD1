@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=MartyD1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=200x8cbv168cgq3fa8wndtzyp&cover_image=true&theme=default&show_offline=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=200x8cbv168cgq3fa8wndtzyp&cover_image=false&theme=default&show_offline=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
 
