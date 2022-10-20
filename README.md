@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![]([https://github.com/MartyD1/MartyD1/blob/main/seq1_AdobeExpress.gif](https://github.com/MartyD1/MartyD1/blob/main/seq1_AdobeExpress%20(1).gif))
+![](https://github.com/MartyD1/MartyD1/blob/main/seq1_AdobeExpress%20(1).gif)
 
 
 # 💫 About Me: 
