@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github.com/MartyD1/MartyD1/blob/main/seq1_AdobeExpress%20(1).gif)
-
-
 #  About Me: 
 💻Computer Science Student in UL <br>💪Never winning, always learning<br>
 
